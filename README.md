@@ -26,3 +26,4 @@ localhost/google_recaptcha/index.php
 [instagram]: https://www.instagram.com/_haa_nguyen
 [facebook]: https://www.facebook.com/nvh1120
 [link]: https://github.com/nvanha/google_recaptcha
+[link2]: https://www.google.com/recaptcha/admin/create
