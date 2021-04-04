@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Google Captcha</title>
+    <title>Google reCAPTCHA</title>
     <link 
 		href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" 
 		rel="stylesheet"
@@ -32,7 +32,7 @@
                 echo "<p>Verified successfully</p>";  
             }
         ?>
-        <a href="demo.php">Back</a>
+        <a href="index.php">Back</a>
     </div>
 </div>
 <?php } else { ?>
